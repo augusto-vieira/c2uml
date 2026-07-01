@@ -1,0 +1,8 @@
+packages:
+  groups:
+    - engine
+    - entities
+  markers:
+    - lib
+    - include
+    - src

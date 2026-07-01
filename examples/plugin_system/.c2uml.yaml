@@ -1,0 +1,11 @@
+packages:
+  groups:
+    - core
+    - plugins
+  markers:
+    - lib
+    - include
+    - src
+
+exclude:
+  - "test_*"

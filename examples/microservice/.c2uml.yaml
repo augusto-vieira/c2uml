@@ -1,0 +1,11 @@
+visibility:
+  public:
+    - "include/public/"
+  private:
+    - "include/private/"
+
+packages:
+  markers:
+    - lib
+    - include
+    - src
